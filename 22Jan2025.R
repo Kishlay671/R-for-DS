@@ -61,8 +61,3 @@ m[-2,]    # - sign can be used to remove index
 
 m[-c(2,4,5),]
 
-
-
-
-
-
